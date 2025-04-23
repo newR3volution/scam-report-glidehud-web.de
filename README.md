@@ -64,3 +64,12 @@ Scammers are:
 If you get a text about tolls with a weird link like `glidehud-web.de`, it’s a scam. Delete it. Don’t pay. Tell someone else so they don’t fall for it either.
 
 Stay sharp. You’re the first line of defense.
+
+
+## Analyst Note
+
+This domain was observed in a phishing campaign mimicking PikePass toll notices.
+
+**First threat report posted to VirusTotal by Bluebird on April 23, 2025**.  
+
+This early reporting helps others identify, respond to, and track the campaign across its lifecycle.
